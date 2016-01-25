@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "BBVerticalAlignmentLabel-hicool”
+  s.name         = "BBVerticalAlignmentLabel-hicool"
   s.version      = "0.0.1"
-  s.summary      = "BBVerticalAlignmentLabel-hicool.”
+  s.summary      = "BBVerticalAlignmentLabel-hicool."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     BBVerticalAlignmentLabel-hicool is a library.
                    DESC
 
-  s.homepage     = "http://github.com/jindegege/BBVerticalAlignmentLabel-hicool”
+  s.homepage     = "http://github.com/jindegege/BBVerticalAlignmentLabel-hicool"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
