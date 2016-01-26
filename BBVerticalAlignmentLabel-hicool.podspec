@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     BBVerticalAlignmentLabel-hicool is a library.
                    DESC
 
-  s.homepage     = "http://github.com/jindegege/BBVerticalAlignmentLabel-hicool"
+  s.homepage     = "https://github.com/jindegege/BBVerticalAlignmentLabel-hicool"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
